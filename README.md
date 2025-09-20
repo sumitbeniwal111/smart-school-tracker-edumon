@@ -9,7 +9,7 @@ Check out the live application here: [https://edumon.vercel.app](https://edumon.
 ### Steps to Run Locally
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Yaswantsoni1128/Edumon.git
+   git clone https://github.com/sumitbeniwal111/smart-school-tracker-edumon.git
    cd Edumon
    ```
 2. Install dependencies for frontend:
