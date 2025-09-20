@@ -1,11 +1,6 @@
 # Edumon: Smart School Tracker
 ---
 
-### 🔗 Live Demo
-Check out the live application here: [https://edumon.vercel.app](https://edumon.vercel.app)
-
----
-
 ### Steps to Run Locally
 1. Clone the repository:
    ```sh
