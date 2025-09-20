@@ -48,5 +48,5 @@ Check out the live application here: [https://edumon.vercel.app](https://edumon.
 ---
 
 ###  Created by
-Yaswant (https://github.com/Yaswantsoni1128)
+Yaswant (https://github.com/sumitbeniwal111)
 
